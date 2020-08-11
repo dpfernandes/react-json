@@ -1,0 +1,24 @@
+.card-component {
+  background-color: #4caf50; /* Green */
+  border: 5px;
+  color: white;
+  padding: 5px 5px 5px 0px;
+  flex: 1;
+  margin: 14px 14px 14px 14px; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  display: contents;
+}
+
+.container {
+  display: flex; /* or inline-flex */
+  /* flex-direction: row; */
+  height: 90px;
+  width: 90px;
+  padding: 10px 10px 10px 10px
+}
